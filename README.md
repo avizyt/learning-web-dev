@@ -2,4 +2,4 @@
 
 👇️
 
-!["Hello Devs"](https://github.com/avizyt/learning-web-dev/blob/main/images/glassCard.png)
+!["Hello Devs"](https://raw.githubusercontent.com/avizyt/learning-web-dev/blob/main/images/glassCard.png)
