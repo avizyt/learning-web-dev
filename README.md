@@ -2,5 +2,5 @@
 
 👇️
 <p align="center">
-<img src="./images/glassCard.png" title="Hello Devs!">
+<img src="https://github.com/avizyt/learning-web-dev/blob/main/images/glassCard.png" title="Hello Devs!">
 </p>
